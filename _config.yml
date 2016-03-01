@@ -1,0 +1,28 @@
+name: PROJECTAZ
+favicon: null
+layout_spectrum: 0.27370824152603745
+typography_spectrum: 0.4469313435256481
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8269521314650774
+  lightness: 0.9833025422412902
+  saturation: 0.9184418709482998
+  rhythmicContrast: 0.9606631284113973
+purpose: []
