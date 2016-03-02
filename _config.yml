@@ -1,6 +1,6 @@
 name: PROJECTAZ
 favicon: null
-layout_spectrum: 0.27370824152603745
+layout_spectrum: 0
 typography_spectrum: 0.4469313435256481
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.8269521314650774
+  brandStrength: 0.5
   lightness: 0.9833025422412902
-  saturation: 0.9184418709482998
+  saturation: 0.125
   rhythmicContrast: 0.9606631284113973
 purpose: []
